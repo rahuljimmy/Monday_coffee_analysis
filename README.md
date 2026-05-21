@@ -1,4 +1,4 @@
-# ☕ Monday Coffee Analysis (SQL Project)
+# ☕ Monday Coffee Expansion Analysis (SQL Project)
 
 ![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
 
@@ -40,21 +40,21 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 After analyzing the data, the recommended top three cities for new store openings are:
 
 **City 1: Pune**  
--🔥 Highest revenue
--💰 Strong average spend per customer
--🏠 Moderate rent
--📊 Good customer base
+-🔥 *Highest revenue*
+-💰 *Strong average spend per customer*
+-🏠 *Moderate rent*
+-📊 *Good customer base*
 
 **City 2: Chennai**  
--💵 Second highest revenue
--📊 Good customer base
--🏠 Rent manageable 
--⚖ Balanced earning vs cost
+-💵 *Second highest revenue*
+-📊 *Good customer base*
+-🏠 *Rent manageable*
+-⚖ *Balanced earning vs cost*
 
 **City 3: Jaipur**  
--👥Highest customer count (69)
--💸 Lowest rent per customer
--📈 Strong revenue compared to cost
--⚖ Very efficient unit economics
+-👥 *Highest customer count (69)*
+-💸 *Lowest rent per customer*
+-📈 *Strong revenue compared to cost*
+-⚖ *Very efficient unit economics*
 
 ---
