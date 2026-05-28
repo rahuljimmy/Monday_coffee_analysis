@@ -40,21 +40,21 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 After analyzing the data, the recommended top three cities for new store openings are:
 
 **City 1: Pune**  
--🔥 *Highest revenue*
--💰 *Strong average spend per customer*
--🏠 *Moderate rent*
--📊 *Good customer base*
+🔥 *Highest revenue* <br>
+💰 *Strong average spend per customer* <br>
+🏠 *Moderate rent* <br>
+📊 *Good customer base*
 
 **City 2: Chennai**  
--💵 *Second highest revenue*
--📊 *Good customer base*
--🏠 *Rent manageable*
--⚖ *Balanced earning vs cost*
+💵 *Second highest revenue* <br>
+📊 *Good customer base* <br>
+🏠 *Rent manageable* <br>
+⚖ *Balanced earning vs cost*
 
 **City 3: Jaipur**  
--👥 *Highest customer count (69)*
--💸 *Lowest rent per customer*
--📈 *Strong revenue compared to cost*
--⚖ *Very efficient unit economics*
+👥 *Highest customer count (69)* <br>
+💸 *Lowest rent per customer* <br>
+📈 *Strong revenue compared to cost* <br>
+⚖ *Very efficient unit economics*
 
 ---
